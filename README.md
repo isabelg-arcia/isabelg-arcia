@@ -4,7 +4,7 @@ ___________________________
 
 - 🌱 I'm studying python and seeking to improve logic skills.
 - 🌎 I'm from Rio de Janeiro/Brazil
-- 🎓 Academic: Biotechnology student at UFRJ
+- 🎓 Academic: Bioinformatics student at USP
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love checklists
 ______________________________________
