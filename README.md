@@ -10,8 +10,4 @@ ___________________________
 ______________________________________
 
 
-<div align="center">
-<img height= "180cm"  src="https://github-readme-stats.vercel.app/api?username=isabelg-arcia&theme=material-palenight&show_icons=true"/>
-</div>
-
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="download20211202224319.png">
